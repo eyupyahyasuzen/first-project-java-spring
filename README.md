@@ -32,5 +32,5 @@ This project represents the **Task 1** milestone of the "First REST API Spring" 
 | **GET** | `/` | Returns the welcome message and logo |
 
 ## 👨‍💻 Author
-* **Student:** Selman Uygurtürk
+* **Student:** Eyup Yahya Suzen
 * **Task:** #1 - Project Setup & Hello World
